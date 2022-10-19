@@ -19,7 +19,7 @@
 {"key":"潇洒软件","name":"👨‍🏫潇洒教程","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/软件教程.json","jar":"https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key":"潇洒美食","name":"🍱潇洒美食","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/美食合集.json","jar":"https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 //=======================================================================================================
-{"key":"drpy_js_360影视","name":"🔭360影视🔭","type":3,"api":"https://raw.githubusercontent.com/fshzf/dogvod/main/drpy.js","ext":"https://gitcode.net/phonegor/dr_py/-/raw/master/js/360%E5%BD%B1%E8%A7%86.js.js"},
+{"key":"drpy_js_360影视","name":"🔭360影视🔭","type":3,"api":"clan://TVbox/drpy/drpy.js","ext":"https://gitcode.net/phonegor/dr_py/-/raw/master/js/360%E5%BD%B1%E8%A7%86.js.js"},
     {
       "key": "drpy_js_555影视",
       "name": "🔭555影视🔭",
