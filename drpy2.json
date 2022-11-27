@@ -322,7 +322,7 @@
 {"key":"csp_xBPQ_98","name":"🍀98影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://fshzf.github.io/dogvod/98%e5%bd%b1%e9%99%a2.json"},
 
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","ext":"http://101.34.67.237/js/drpy.js"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/json/alist.json,""jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ad5e07a700c8b50e0eb03e20422c788d"},
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/json/alist.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ad5e07a700c8b50e0eb03e20422c788d"},
 {"key":"drpy_js_荐片","name":"P2P | 荐片[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","ext":"http://101.34.67.237/js/荐片.js"},
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","ext":"http://101.34.67.237/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","ext":"http://101.34.67.237/js/奇珍异兽.js"},
