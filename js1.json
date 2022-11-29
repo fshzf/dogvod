@@ -1,7 +1,7 @@
 {"spider":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/w.jar;md5;74A24673CC1587FA87EC2D1F43BFA4CB",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/drpy.js"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"https://phonegor.tk/admin/view/alist.json"},
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/alist.json"},
 {"key":"drpy_js_荐片","name":"P2P | 荐片[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/荐片.js"},
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/奇珍异兽.js"},
