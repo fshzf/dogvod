@@ -1,8 +1,19 @@
 {
 	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/1023.jar;md5;C4BA98711FAC35DAFF17780D0817F5DC",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"lives":[{"name":"直播","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://download.kstore.space/download/2863/live.txt"}],
-
+	"lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "直播",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9waG9uZWdvci50ay9saXZlcw=="
+                    ]
+                }
+            ]
+        }
+    ],
 "sites":[
 {"key":"js豆瓣","name":"🅱豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
