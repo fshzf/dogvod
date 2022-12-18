@@ -2,6 +2,10 @@
 	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/1023.jar;md5;C4BA98711FAC35DAFF17780D0817F5DC",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
+		{"name": "直播",
+      "type": 0,
+      "url": "https://fshzf.github.io/dogvod/yg.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
         {
             "group": "redirect",
             "channels": [
@@ -11,7 +15,8 @@
                         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mc2h6Zi5naXRodWIuaW8vZG9ndm9kL3lnLnR4dA=="
                     ]
                 }
-            ]
+            ],
+		"epg":"http://epg.51zmt.top:8000/api/diyp/"
         }
     ],
 "sites":[
