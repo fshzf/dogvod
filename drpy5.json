@@ -148,67 +148,8 @@
       "ext": "token;desc",
 	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/top98.jar"
     },
-
-    //{
-      "key": "upyunsou",
-      "name": "Up云搜",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "ext": "token;desc",
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/top98.jar"
-    },   
-//{
-      "key": "找资源",
-      "name": "找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/top98.jar"
-    },
-   
-   // {
-      "key": "yisou",
-      "name": "宜搜",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/top98.jar"
-    },
-    //{
-      "key": "AliPS",
-      "name": "AliPS",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/top98.jar"
-    },
-    //{
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 1,
-      "ext": "token;desc",
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/top98.jar"
-    },
-
-{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
+	
+ {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
     {"key":"Yanet","name":"鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
     {"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
     {"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
