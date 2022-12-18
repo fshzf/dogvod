@@ -1,24 +1,13 @@
-[{
-	"name": "🙋丫仙女",
-	"server": "http://alist.xiaoya.pro/",
-	"startPage": "/",
-	"showAll": false,
-	"search": true,
-	"params": {
-		"/abc": {
-			"password": "123"
-		},
-		"/abc/abc": {
-			"password": "123"
-		}
-	}
-}, {
-	"name": "🌤晴园的宝藏库",
-	"server": "https://alist.52qy.repl.co"
-}, {
-	"name": "9T",
-	"server": "https://drive.9t.ee"
-},  {
-	"name": "木偶",
-	"server": "https://www.kugutsu.ml"
-}]
+{
+  "drives": [
+    
+    {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "杜比",
+      "server": "https://dubi.tk"
+    }
+  ]
+}
