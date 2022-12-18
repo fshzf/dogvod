@@ -62,20 +62,6 @@
       "filterable": 1,
 	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/top98.jar"
     },
-      {
-      "key": "csp_Alist",
-      "name": "Alist(SP)",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 0,
-      "playerType": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/top98.jar",
-      "ext": {
-        "💢小雅":"http://alistxy.ganggang.live:5678"
-      }
-    },
 	{"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {
       "key": "csp_xb_lez",
@@ -222,7 +208,7 @@
 	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/top98.jar"
     },
 
-
+{"key":"AList","name": "AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
 {"key":"Zjdr","name":"追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
 {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
 {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
