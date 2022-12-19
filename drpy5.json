@@ -405,7 +405,7 @@
 {"key":"drpy_js_追剧达人","name":"影视 | 追剧达人[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/追剧达人.js"},
 {"key":"drpy_js_追剧啦儿","name":"影视 | 追剧啦儿[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/子子影视.js"},
-{"key":"drpy_js_苹果爱薇","name":"影视 | 苹果爱薇[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/苹果爱薇.js"},
+//{"key":"drpy_js_苹果爱薇","name":"影视 | 苹果爱薇[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/苹果爱薇.js"},
 {"key":"csp_xBPQ_um","name":"🎒UM看(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/umkan（XBPQ）.json"},
 {"key":"csp_xBPQ_freeok","name":"️🏝FREEOK(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/freeok（XBPQ）.json"},	
 {"key":"csp_xBPQ_荐片","name":"🎬荐片影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/荐片（XBPQ）.json"},
