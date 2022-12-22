@@ -410,6 +410,8 @@
 {"key":"drpy_js_云镜影视","name":"影视 | 云镜影视[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/云镜影视.js"},
 {"key":"drpy_js_大中影视","name":"影视 | 大中影视[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/大中影视.js"},
 {"key":"drpy_js_时光影视","name":"影视 | 时光影视[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/时光影视.js"},	
+{"key":"drpy_js_IMAX影视","name":"影视 | IMAX影视[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/IMAX影视.js"},
+{"key":"drpy_js_爱壹帆","name":"影视 | 爱壹帆[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/爱壹帆.js"},
 	
 {"key":"csp_xBPQ_um","name":"🎒UM看(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/umkan（XBPQ）.json"},
 {"key":"csp_xBPQ_freeok","name":"️🏝FREEOK(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/freeok（XBPQ）.json"},	
