@@ -1292,16 +1292,7 @@
             "filterable": 1,
             "ext": "https://phonegor.tk/admin/view/量子影视.js"
         },
-        {
-            "key": "dr_酷奇MV",
-            "name": "酷奇MV(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/酷奇MV.js"
-        },
+        
         {
             "key": "dr_麦豆",
             "name": "麦豆(drpy)",
@@ -1312,37 +1303,7 @@
             "filterable": 0,
             "ext": "https://phonegor.tk/admin/view/麦豆.js"
         },
-        {
-            "key": "dr_追剧喵",
-            "name": "追剧喵(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/追剧喵.js"
-        },
-        {
-            "key": "dr_蛋蛋赞",
-            "name": "蛋蛋赞(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/蛋蛋赞.js"
-        },
-       
-        {
-            "key": "dr_蓝莓影视",
-            "name": "蓝莓影视(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/蓝莓影视.js"
-        },
+      
         {
             "key": "dr_蓝光影院",
             "name": "蓝光影院(drpy)",
@@ -1383,17 +1344,7 @@
             "filterable": 0,
             "ext": "https://phonegor.tk/admin/view/秋霞.js"
         },
-        {
-            "key": "dr_短视频",
-            "name": "短视频(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/短视频.js"
-        },
-        {
+              {
             "key": "dr_番茄影视",
             "name": "番茄影视(drpy)",
             "type": 3,
@@ -1403,37 +1354,7 @@
             "filterable": 1,
             "ext": "https://phonegor.tk/admin/view/番茄影视.js"
         },
-        {
-            "key": "dr_瓜皮TV",
-            "name": "瓜皮TV(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/瓜皮TV.js"
-        },
-        {
-            "key": "dr_玄天",
-            "name": "玄天(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/玄天.js"
-        },
-        
-        {
-            "key": "dr_牛马TV",
-            "name": "牛马TV(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/牛马TV.js"
-        },
+       
         {
             "key": "dr_爱迪影视",
             "name": "爱迪影视(drpy)",
@@ -1506,27 +1427,7 @@
             "filterable": 1,
             "ext": "https://phonegor.tk/admin/view/快看.js"
         },
-        {
-            "key": "dr_影视工厂",
-            "name": "影视工厂(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/影视工厂.js"
-        },
-       
-        {
-            "key": "dr_库马伊",
-            "name": "库马伊(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/库马伊.js"
-        },
+        
         {
             "key": "dr_干饭影视",
             "name": "干饭影视(drpy)",
@@ -1557,27 +1458,6 @@
             "filterable": 0,
             "ext": "https://phonegor.tk/admin/view/小白菜电影.js"
         },
-        {
-            "key": "dr_小猫咪",
-            "name": "小猫咪(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/小猫咪.js"
-        },
-        {
-            "key": "dr_小强迷",
-            "name": "小强迷(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/小强迷.js"
-        },
-        
        
         {
             "key": "dr_完美看看",
@@ -1640,26 +1520,7 @@
             "filterable": 0,
             "ext": "https://phonegor.tk/admin/view/大师兄影视.js"
         },
-        {
-            "key": "dr_夜空",
-            "name": "夜空(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/夜空.js"
-        },
-        {
-            "key": "dr_在线之家",
-            "name": "在线之家(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://phonegor.tk/admin/view/在线之家.js"
-        },
+      
         {
             "key": "dr_四个圈影视",
             "name": "四个圈影视(drpy)",
@@ -1680,17 +1541,7 @@
             "filterable": 0,
             "ext": "https://phonegor.tk/admin/view/喵喵.js"
         },
-        {
-            "key": "dr_唐人街影视",
-            "name": "唐人街影视(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/唐人街影视.js"
-        },
-        
+       
         {
             "key": "dr_双十电影",
             "name": "双十电影(drpy)",
@@ -1711,16 +1562,7 @@
             "filterable": 0,
             "ext": "https://phonegor.tk/admin/view/厂长资源.js"
         },
-        {
-            "key": "dr_剧白白",
-            "name": "剧白白(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://phonegor.tk/admin/view/剧白白.js"
-        },
+       
         {
             "key": "dr_凌云影视",
             "name": "凌云影视(drpy)",
@@ -1782,17 +1624,7 @@
             "filterable": 1,
             "ext": "https://phonegor.tk/admin/view/voflix.js"
         },
-        {
-            "key": "dr_vip影院",
-            "name": "vip影院(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/vip影院.js"
-        },
-        {
+               {
             "key": "dr_vidhub",
             "name": "vidhub(drpy)",
             "type": 3,
@@ -1822,17 +1654,7 @@
             "filterable": 0,
             "ext": "https://phonegor.tk/admin/view/tva云播.js"
         },
-        {
-            "key": "dr_RP影视",
-            "name": "RP影视(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/RP影视.js"
-        },
-        
+      
         {
             "key": "dr_LIBVIO",
             "name": "LIBVIO(drpy)",
@@ -1843,48 +1665,7 @@
             "filterable": 1,
             "ext": "https://phonegor.tk/admin/view/LIBVIO.js"
         },
-        {
-            "key": "dr_l0l",
-            "name": "l0l(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/l0l.js"
-        },
        
-        {
-            "key": "dr_JustLive",
-            "name": "JustLive(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://phonegor.tk/admin/view/JustLive.js"
-        },
-        {
-            "key": "dr_JRS看直播",
-            "name": "JRS看直播(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/JRS看直播.js"
-        },
-        {
-            "key": "dr_JRS看球网",
-            "name": "JRS看球网(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/JRS看球网.js"
-        },
-        
         {
             "key": "dr_JRKAN直播",
             "name": "JRKAN直播(drpy)",
@@ -1895,17 +1676,7 @@
             "filterable": 0,
             "ext": "https://phonegor.tk/admin/view/JRKAN直播.js"
         },
-        
-        {
-            "key": "dr_HDmoli",
-            "name": "HDmoli(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/HDmoli.js"
-        },
+      
         {
             "key": "dr_gaze",
             "name": "gaze(drpy)",
@@ -1958,17 +1729,7 @@
             "filterable": 0,
             "ext": "https://phonegor.tk/admin/view/69美剧.js"
         },
-        {
-            "key": "dr_555影视",
-            "name": "555影视(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.tk/admin/view/555影视.js"
-        },
-        {
+              {
             "key": "dr_310直播",
             "name": "310直播(drpy)",
             "type": 3,
@@ -1978,17 +1739,7 @@
             "filterable": 0,
             "ext": "https://phonegor.tk/admin/view/310直播.js"
         },
-        {
-            "key": "dr_188看",
-            "name": "188看(drpy)",
-            "type": 3,
-            "api": "https://phonegor.tk/libs/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://phonegor.tk/admin/view/188看.js"
-        },
-        {
+               {
             "key": "dr_1080P",
             "name": "1080P(drpy)",
             "type": 3,
