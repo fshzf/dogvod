@@ -264,7 +264,7 @@
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fshzf.github.io/dogvod/310%e7%9b%b4%e6%92%ad.json"},
 //{"key":"csp_xBPQ_子子","name":"🍀子子","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://fshzf.github.io/dogvod/%e5%ad%90%e5%ad%90%e5%bd%b1%e8%a7%86.json"},
 //{"key":"csp_xBPQ_98","name":"🍀98影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://fshzf.github.io/dogvod/98%e5%bd%b1%e9%99%a2.json"},
-{"key": "csp_XBPQ_ys影院",
+{"key": "csp_xBPQ_ys影院",
 	"name": "ys影院",          
 	"type": 3,
 	"api": "csp_XBPQ",
