@@ -272,7 +272,7 @@
 	"quickSearch": 1,
 	"filterable": 0,	
 	"ext": {
-	"分类url":"https://www.yydsvod.com/channel/{cateId}-{catePg}.html","jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/XBPQ_1203.jar"	
+	"分类url":"https://www.yydsvod.com/channel/{cateId}-{catePg}.html","jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/XBPQ_1223.jar"	
 	}},
 	
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"http://101.34.67.237/libs/drpy2.min.js","ext":"http://101.34.67.237/js/360影视.js"},
