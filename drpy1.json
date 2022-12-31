@@ -274,7 +274,16 @@
 	"ext": {
 	"分类url":"https://www.yydsvod.com/channel/{cateId}-{catePg}.html","jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/XBPQ_1223.jar"	
 	}},
-	
+	{
+            "key": "dr_哔哩影视",
+            "name": "哔哩影视(drpy)",
+            "type": 3,
+            "api": "https://phonegor.tk/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://phonegor.tk/admin/view/哔哩影视.js"
+        },
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"http://101.34.67.237/libs/drpy2.min.js","ext":"http://101.34.67.237/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"http://101.34.67.237/libs/drpy2.min.js","ext":"http://101.34.67.237/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"http://101.34.67.237/libs/drpy2.min.js","ext":"http://101.34.67.237/js/优酷.js"},
@@ -425,7 +434,16 @@
 //{"key":"drpy_js_秋霞2","name":"影视 | 秋霞2[js]","type":3,"api":"http://101.34.67.237/libs/drpy2.min.js","ext":"http://101.34.67.237/js/秋霞2.js"},
 {"key":"drpy_js_蛋蛋赞","name":"影视 | 蛋蛋赞[js]","type":3,"api":"http://101.34.67.237/libs/drpy2.min.js","ext":"http://101.34.67.237/js/蛋蛋赞.js"},
 {"key":"drpy_js_素白白","name":"影视 | 素白白[js]","type":3,"api":"http://101.34.67.237/libs/drpy2.min.js","ext":"http://101.34.67.237/js/素白白.js"},
-	
+ {
+            "key": "dr_奇优影院",
+            "name": "奇优影院(drpy)",
+            "type": 3,
+            "api": "https://phonegor.tk/libs/drpy2.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://phonegor.tk/admin/view/奇优影院.js"
+        },	
 {"key":"csp_xBPQ_um","name":"🎒UM看(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/umkan（XBPQ）.json"},
 {"key":"csp_xBPQ_freeok","name":"️🏝FREEOK(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/freeok（XBPQ）.json"},	
 {"key":"csp_xBPQ_荐片","name":"🎬荐片影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/荐片（XBPQ）.json"},
