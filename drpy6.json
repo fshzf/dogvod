@@ -21,7 +21,8 @@
     ],
 "sites":[
 {"key":"js豆瓣","name":"🅱豆瓣热播┃推荐","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_drpy.js"},
- {
+{"key":"Kunyu77","name":"七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
+	{
       "key": "360",
       "name": "360",
       "type": 3,
@@ -201,7 +202,6 @@
     {"key":"IKan","name":"爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
     {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
     {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
-    {"key":"Kunyu77","name":"七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
     {"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
     {"key":"Tbook","name":"听书网","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"d16d1517e9eaad9909cb35c55ba0b784","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
     {"key":"Bili","name":"哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
