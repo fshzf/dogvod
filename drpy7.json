@@ -313,7 +313,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://aliys.cn:90/api.php/v1.vod"
+            "ext": "http://aliys.cn:90/api.php/v1.vod",
+		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"
         },
         {
             "key": "云播影视",
@@ -323,7 +324,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"
+            "ext": "免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html","jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"
         },
         {
             "key": "csp_555",
@@ -344,22 +345,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://enlienli.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+            "ext": "https://enlienli.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"
         },
-        {
-            "key": "喵影视",
-            "name": "🐈┃喵喵┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "免嗅": "1",
-                "分类url": "http://www.miaoys.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-            }
-        },
-        {
+              {
             "key": "csp_Nkdy",
             "name": "🗽┃南柯┃影视",
             "type": 3,
@@ -406,7 +395,7 @@
             "name": "🍬┃COK┃影视",
             "type": 3,
             "api": "csp_XBiu",
-            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html","jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"
         },
         {
             "key": "哔滴影视",
@@ -449,16 +438,7 @@
             "filterable": 1,
 			"jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"
         },
-        {
-            "key": "在线之家",
-            "name": "🎞┃在线┃之家",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-			"jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"
-        },
+     
 		
 //{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/xo.jar"},
 //{"key":"csp_AppTT","name":"🐰图图┃SP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/xo.jar"},
