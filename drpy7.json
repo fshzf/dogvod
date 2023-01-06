@@ -305,7 +305,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://aliys.cn:90/api.php/v1.vod"
+            "ext": "http://aliys.cn:90/api.php/v1.vod",
+            "jar": "http://我不是.肥猫.love:63/Jar/panda1206.jar;md5;F06D4045AFF8C7D8E91D5461538EFD67"
         },
         {
             "key": "云播影视",
@@ -432,15 +433,8 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "在线之家",
-            "name": "🎞┃在线┃之家",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+{"key":"csp_zxzj","name":"📗在线┃SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/xo.jar"},
+{"key":"csp_Vofl","name":"🎈Voflix┃SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/xo.jar"},
 		
 //{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/xo.jar"},
 //{"key":"csp_AppTT","name":"🐰图图┃SP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/xo.jar"},
