@@ -313,8 +313,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://aliys.cn:90/api.php/v1.vod",
-            "jar": "http://我不是.肥猫.love:63/Jar/panda1206.jar;md5;F06D4045AFF8C7D8E91D5461538EFD67"
+            "ext": "http://aliys.cn:90/api.php/v1.vod"
         },
         {
             "key": "云播影视",
@@ -324,8 +323,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html",
-			"jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"
+            "ext": "免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"
         },
         {
             "key": "csp_555",
@@ -346,8 +344,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://enlienli.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-			"jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"
+            "ext": "https://enlienli.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
         },
         {
             "key": "喵影视",
@@ -359,8 +356,7 @@
             "filterable": 0,
             "ext": {
                 "免嗅": "1",
-                "分类url": "http://www.miaoys.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-				"jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"
+                "分类url": "http://www.miaoys.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
             }
         },
         {
@@ -402,16 +398,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87" "http://w.g9.pub:66/381203888/XP/voflix.json",
-			
+            "ext": "http://w.g9.pub:66/381203888/XP/voflix.json",
+	"jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"	
         },
 		 {
             "key": "csp_XBiuCOKEMV",
             "name": "🍬┃COK┃影视",
             "type": 3,
             "api": "csp_XBiu",
-            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html",
-			"jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;99A127EDB4FF2FC621B648ADF23E5C87"
+            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "哔滴影视",
