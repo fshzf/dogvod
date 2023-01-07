@@ -514,6 +514,7 @@
 {"key":"drpy_js_NFM影视","name":"影视 | NFM影视[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/NFM影视.js"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/LIBVIO.js"},
 //{"key":"drpy_js_HDmoli","name":"影视 | HDmoli[js]","type":3,"api":"http://101.34.67.237/libs/drpy2.min.js","ext":"http://101.34.67.237/js/HDmoli.js"},
+//{ "key": "dr_猫了个咪","name": "猫了个咪(drpy)","type": 3, "api": "https://phonegor.ml/libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://phonegor.ml/admin/view/猫了个咪.js"},
 {"key":"drpy_js_Voflix2","name":"影视 | Voflix[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/Voflix2.js"},
 {"key":"drpy_js_农民影视","name":"影视 | 农民影视[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/农民影视.js"},
 {"key":"drpy_js_YOKE影视","name":"影视 | YOKE影视[js]","type":3,"api":"https://phonegor.tk/libs/drpy2.min.js","ext":"https://phonegor.tk/admin/view/YOKE影视.js"},
@@ -648,6 +649,7 @@
 //{"key":"drpy_js_秋霞2","name":"影视 | 秋霞2[js]","type":3,"api":"http://101.34.67.237/libs/drpy2.min.js","ext":"http://101.34.67.237/js/秋霞2.js"},
 {"key":"drpy_js_蛋蛋赞","name":"影视 | 蛋蛋赞[js]","type":3,"api":"https://phonegor.ml/libs/drpy2.min.js","ext":"https://phonegor.ml/admin/view/蛋蛋赞.js"},
 {"key":"drpy_js_素白白","name":"影视 | 素白白[js]","type":3,"api":"https://phonegor.ml/libs/drpy2.min.js","ext":"https://phonegor.ml/admin/view/素白白.js"},
+{"key":"drpy_js_我的哔哩","name":"影视 | 我的哔哩[js]","type":3,"api":"https://phonegor.ml/libs/drpy2.min.js","ext":"https://phonegor.ml/admin/view/我的哔哩.js"},
  {
             "key": "dr_gaze",
             "name": "gaze(drpy)",
@@ -658,16 +660,7 @@
             "filterable": 1,
             "ext": "https://phonegor.ml/admin/view/gaze.js"
         },
-        {
-            "key": "dr_猫了个咪",
-            "name": "猫了个咪(drpy)",
-            "type": 3,
-            "api": "https://phonegor.ml/libs/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://phonegor.ml/admin/view/猫了个咪.js"
-        },
+ 
 		{
             "key": "dr_荐片",
             "name": "荐片(drpy)",
