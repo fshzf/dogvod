@@ -177,7 +177,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "playerType": "2",
-      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/348languang.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/sub/348languang.json"
     },
     {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
     //{"key":"Yanet","name":"鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/cs3.jar"},
