@@ -22,7 +22,7 @@
 "sites":[
 {
             "key": "js豆瓣",
-            "name": "┃豆瓣┃D首页",
+            "name": "🅱豆瓣热播┃推荐",
             "type": 3,
             "api": "http://id.ganggang.live:63/js/drpy2.min.js",
             "ext": "http://id.ganggang.live:63/js/js_drpy.js",
