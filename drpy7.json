@@ -1,5 +1,5 @@
 {
-	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda.jar;md5;5B59562C6D0B7E9587982F976D14A452",
+	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/panda230111.jar;md5;AEAC1FF0F843FC8CF45D730E6F7B6C5E",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 		{"name": "直播",
@@ -20,8 +20,17 @@
         }
     ],
 "sites":[
-{"key":"js豆瓣","name":"🅱豆瓣热播┃推荐","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_drpy.js"},
- {
+{
+            "key": "js豆瓣",
+            "name": "🐼┃豆瓣┃D首页",
+            "type": 3,
+            "api": "http://id.ganggang.live:63/js/drpy2.min.js",
+            "ext": "http://id.ganggang.live:63/js/js_drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "csp_XYQ_lu1",
             "name": "🐼️┃电视┃直播",
             "type": 3,
@@ -30,6 +39,18 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://我不是.肥猫.love:63/ningmeng.json"
+        },
+	{
+            "key": "YQK_spider",
+            "name": "🏃┃一起┃电视",
+            "api": "csp_YQKAPP",
+            "type": 3,
+            "filterable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://api-tx.shumaxc.xyz",
+            "jar": "http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"
         },
         {
             "key": "csp_BuLei",
