@@ -189,6 +189,24 @@
       "ext": "http://我不是.肥猫.love:63/token.php",
 	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;BAD875495A9D88AEB0DC1744E9C85FEB"
     },
+	 {
+            "key": "csp_biubiu_鸭奈飞",
+            "name": "🦆┃奈飞┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "http://我不是.肥猫.love:63/json/鸭奈飞.json"
+        },
+	{
+            "key": "csp_Kunyu77",
+            "name": "🌈┃七七┃影视",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 {
       "key": "348",
       "name": "🌸348蓝光(规则)",
