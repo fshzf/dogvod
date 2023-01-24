@@ -156,7 +156,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "http://我不是.肥猫.love:63/token.php",
-	   "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;BAD875495A9D88AEB0DC1744E9C85FEB"
+	   "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;a84fef826cb82da525469e8acf1e7d9a"
     },
     {
       "key": "易搜",
@@ -166,7 +166,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php",
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;BAD875495A9D88AEB0DC1744E9C85FEB"
+	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;a84fef826cb82da525469e8acf1e7d9a"
     },
     {
       "key": "盤搜",
@@ -176,7 +176,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php",
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;BAD875495A9D88AEB0DC1744E9C85FEB"
+	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;a84fef826cb82da525469e8acf1e7d9a"
     },
     {
       "key": "UP雲搜",
@@ -186,7 +186,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php",
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;BAD875495A9D88AEB0DC1744E9C85FEB"
+	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;a84fef826cb82da525469e8acf1e7d9a"
     },
     {
       "key": "找資源",
@@ -196,7 +196,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php",
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;BAD875495A9D88AEB0DC1744E9C85FEB"
+	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;a84fef826cb82da525469e8acf1e7d9a"
     },
     {
       "key": "push_agent",
@@ -206,7 +206,7 @@
       "searchable": 1,
       "filterable": 0,
       "ext": "http://我不是.肥猫.love:63/token.php",
-	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;BAD875495A9D88AEB0DC1744E9C85FEB"
+	  "jar":"https://ghproxy.com/https://raw.githubusercontent.com/fshzf/dogvod/main/fm.jar;md5;a84fef826cb82da525469e8acf1e7d9a"
     },
 	 {
             "key": "csp_biubiu_鸭奈飞",
