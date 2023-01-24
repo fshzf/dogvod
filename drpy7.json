@@ -2,21 +2,16 @@
 	"spider": "http://我不是.肥猫.love:63/Jar/panda230118.jar;md5;C05BADC650CB9F99D5F788D542B563EC",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
-		{"name": "直播",
-      "type": 0,
-      "url": "https://fshzf.github.io/dogvod/zb.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}"},
         {
             "group": "redirect",
             "channels": [
                 {
-                    "name": "直播",
+                    "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mc2h6Zi5naXRodWIuaW8vZG9ndm9kL3piLnR4dA=="
+                        "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"
                     ]
                 }
-            ],
-		"epg":"https://epg.112114.xyz"
+            ]
         }
     ],
 "sites":[
